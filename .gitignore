@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Logs
+*.log
+
+# Local development environment
+.env
+
+# Other editor or OS-specific files
+*.swp
+.DS_Store

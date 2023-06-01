@@ -1,5 +1,0 @@
-# Tweet Generator
-
-## Overview
-
-## Installation
